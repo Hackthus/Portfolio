@@ -2,6 +2,7 @@ export default {
 
   title: "Hackthus",
   description: "Offensive security Projects",
+  base: "/Portfolio/",
 
   themeConfig: {
 
