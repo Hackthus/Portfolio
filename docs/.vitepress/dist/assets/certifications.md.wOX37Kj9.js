@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as a}from"./chunks/framework.BjR4ijyp.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"certifications.md","filePath":"certifications.md"}'),c={name:"certifications.md"};function i(r,o,s,n,f,p){return e(),a("div")}const m=t(c,[["render",i]]);export{d as __pageData,m as default};
